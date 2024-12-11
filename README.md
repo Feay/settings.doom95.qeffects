@@ -34,4 +34,8 @@ I have included my settings file, it seems that invalid lines are ignored and th
 there for i have put all the meanings on alternate lines and it seems to run well.
 # Extra credit:
 I have dumped all the command line switches.
+
+screenshots:
+![alt text](https://github.com/Feay/settings.doom95.qeffects/blob/main/with%20bloom%20NICE.jpg)
+![alt text](https://github.com/Feay/settings.doom95.qeffects/blob/main/with%20emboss%20COOL.jpg)
     
